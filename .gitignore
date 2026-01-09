@@ -20,3 +20,4 @@ reports/
 
 # Opcional: ficheiros locais
 *.log
+config.json
