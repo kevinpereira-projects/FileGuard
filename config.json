@@ -1,0 +1,12 @@
+{
+  "include": [
+    "/home/ubuntu/fileguard_lab/criticos/**"
+  ],
+  "exclude": [
+    "**/*.tmp",
+    "**/*.swp",
+    "**/.DS_Store",
+    "**/__pycache__/**",
+    "/home/ubuntu/fileguard_lab/temporarios/**"
+  ]
+}

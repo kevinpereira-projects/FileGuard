@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Outputs do projeto (não subir)
+data/
+logs/
+reports/
+
+# SO/Editor
+.DS_Store
+*.swp
+*.swo
+
+# Opcional: ficheiros locais
+*.log
