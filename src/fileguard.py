@@ -377,7 +377,7 @@ def parse_args():
     )
     p.add_argument(
         "--config",
-        default=os.path.expanduser("~/fileguard/config.json"),
+	default="config.json",
         help="Ficheiro de configuração JSON (include/exclude)",
     )
     return p.parse_args()
